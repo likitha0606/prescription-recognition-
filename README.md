@@ -17,6 +17,15 @@ The Medical Prescription Recognition System is a comprehensive solution designed
 - Python: The primary programming language used to integrate all components.
 - Libraries/Frameworks: TensorFlow, Keras, OpenCV, Tesseract, and NumPy.
 
+## How to Run the Project
+- Clone the repository to your local machine.
+
+- Install the required dependencies listed in the requirements.txt file.
+
+- Run the script using the command: python main.py.
+
+- Upload or input a prescription image to begin processing.
+
   # This is how it looks like
   ![Screenshot 2024-12-17 192930](https://github.com/user-attachments/assets/97cba649-f100-4f8e-8bfa-2c463865d3a4)
   ![Screenshot 2024-12-17 192948](https://github.com/user-attachments/assets/9efa1890-886e-4b4b-8d4a-fd1b8e72410d)
